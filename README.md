@@ -25,7 +25,8 @@ How it functions-
 
 Implementation:-
 PHP script 
-HTML Embedded
+HTML 
+
 Mysql 
 
 
